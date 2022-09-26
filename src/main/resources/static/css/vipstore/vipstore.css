@@ -1,0 +1,33 @@
+.box-item:hover {
+	border: 4px solid #da423e;
+	cursor: pointer;
+}
+.item-choised {
+	border: 4px solid #da423e;
+}
+.orderDisplay {
+	display: none;
+}
+
+.chinese-store {
+	display: none;
+}
+
+.test-store {
+	display: none;
+}
+.oa-message {
+	margin-top:10px;
+	display: none;
+	text-align: center;
+    font-size: 20px;
+    color: #930f0f;
+    background-color: #8990e7;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #cd4210;
+}
+.oa-textLink{
+	color: #266417;
+	text-decoration: underline!important;
+}

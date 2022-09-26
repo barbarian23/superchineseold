@@ -1,0 +1,152 @@
+{"properties": [
+  {
+    "name": "superchinese.app_id",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.app_id'"
+  },
+  {
+    "name": "superchinese.permission_url",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.permission_url'"
+  },
+  {
+    "name": "superchinese.access_token_url",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.access_token_url'"
+  },
+  {
+    "name": "superchinese.redirect_uri_url",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.redirect_uri_url'"
+  },
+  {
+    "name": "superchinese.secret_key",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.secret_key'"
+  },
+  {
+    "name": "superchinese.hostName",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.hostName'"
+  },
+  {
+    "name": "superchinese.sid",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.sid'"
+  },
+  {
+    "name": "superchinese.username",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.username'"
+  },
+  {
+    "name": "superchinese.port",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.port'"
+  },
+  {
+    "name": "superchinese.state",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.state'"
+  },
+  {
+    "name": "superchinese.discount",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.discount'"
+  },
+  {
+    "name": "superchinese.date.discount",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.date.discount'"
+  },
+  {
+    "name": "logOutZaloUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'logOutZaloUrl'"
+  },
+  {
+    "name": "getLastTransactionUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'getLastTransactionUrl'"
+  },
+  {
+    "name": "checOakUserUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'checOakUserUrl'"
+  },
+  {
+    "name": "packOrderUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'packOrderUrl'"
+  },
+  {
+    "name": "packOrderListUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'packOrderListUrl'"
+  },
+  {
+    "name": "spcApiActiveLicense",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiActiveLicense'"
+  },
+  {
+    "name": "spcApiLogin",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiLogin'"
+  },
+  {
+    "name": "spcApiChecktoken",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiChecktoken'"
+  },
+  {
+    "name": "spcApiProfile",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiProfile'"
+  },
+  {
+    "name": "spcApiVipPackage",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiVipPackage'"
+  },
+  {
+    "name": "spcApiAgency",
+    "type": "java.lang.String",
+    "description": "A description for 'spcApiAgency'"
+  },
+  {
+    "name": "checkVoucherUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'checkVoucherUrl'"
+  },
+  {
+    "name": "queryBalanceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'queryBalanceUrl'"
+  },
+  {
+    "name": "createOrderUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'createOrderUrl'"
+  },
+  {
+    "name": "agreementBindUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'agreementBindUrl'"
+  },
+  {
+    "name": "orderByPhoneUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'orderByPhoneUrl'"
+  },
+  {
+    "name": "checkBindPayUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'checkBindPayUrl'"
+  },
+  {
+    "name": "superchinese.folder.logs",
+    "type": "java.lang.String",
+    "description": "A description for 'superchinese.folder.logs'"
+  }
+]}

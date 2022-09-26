@@ -1,0 +1,21 @@
+.error {
+	padding-top: 120px;
+}
+.error-container{
+	height:600px;
+}
+.text-center {
+	text-align: center;
+	margin-top:200px;
+}
+.btn-home {
+	background-color: #7650f7;
+    color: white;
+}
+.error-container p,button{
+	font-size: 16px;
+}
+.error-container button {
+	padding: 6px 20px;
+	border-radius: 8px;
+}

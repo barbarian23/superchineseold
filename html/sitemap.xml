@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://superchinese.vn</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://superchinese.vn/super-chinese</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://superchinese.vn/super-test</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://superchinese.vn/goi-vip-superchinese</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://superchinese.vn/dieu-khoan-su-dung</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+  <url>
+    <loc>https://superchinese.vn/ky-thi-hsk-la-gi</loc>
+    <changefreq>daily</changefreq>
+    <lastmod>2022-04-30</lastmod>
+  </url>
+</urlset>
